@@ -18,11 +18,6 @@ export function App() {
             author="Talles Guerra"
             content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse deserunt sed, qui ipsa tempora reiciendis architecto? Neque quis veritatis molestiae laborum. Quidem, ex similique ratione aspernatur optio architecto voluptates!"
           />
-
-          <Post
-            author="Talles Guerra"
-            content="Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum esse deserunt sed, qui ipsa tempora reiciendis architecto? Neque quis veritatis molestiae laborum. Quidem, ex similique ratione aspernatur optio architecto voluptates!"
-          />
         </main>
       </div>
     </div>

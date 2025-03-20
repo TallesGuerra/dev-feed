@@ -1,4 +1,5 @@
 .header {
+  width: 100dvw;
   background: var(--gray-800);
   display: flex;
   justify-content: center;
