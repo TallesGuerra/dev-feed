@@ -2,6 +2,8 @@
   display: flex;
   gap: 1rem;
   margin-top: 1.5rem;
+
+  border-bottom: 1px solid var(--green-500);
 }
 
 .comment > img {
@@ -12,6 +14,8 @@
 
 .commentBox {
   flex: 1;
+
+  margin-bottom: 1rem;
 }
 
 .authorAndTime strong {
