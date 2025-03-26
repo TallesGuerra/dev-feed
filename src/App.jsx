@@ -13,7 +13,7 @@ const post = [
   {
     id: 1,
     author: {
-      avatar_url: "https://github.com/tallesguerra.png",
+      avatarUrl: "https://github.com/tallesguerra.png",
       name: "Talles Guerra",
       role: "FrontEnd Developer",
     },
@@ -26,16 +26,13 @@ const post = [
       },
       { type: "link", content: "jantale.design/doctorcare" },
     ],
-    publishedAt: {
-      date: "2025-03-14",
-      time: "16:44:00",
-    },
+    publishedAt: new Date("2025-03-18 20:00:00"),
   },
 
   {
     id: 2,
     author: {
-      avatar_url: "https://github.com/tallesguerra.png",
+      avatarUrl: "https://github.com/diego3g.png",
       name: "Diego Fernandes",
       role: "CTO Rocketseat",
     },
@@ -48,10 +45,7 @@ const post = [
       },
       { type: "link", content: "jantale.design/doctorcare" },
     ],
-    publishedAt: {
-      date: "2025-03-18",
-      time: "16:44:00",
-    },
+    publishedAt: new Date("2025-03-20 20:00:00"),
   },
 ];
 
